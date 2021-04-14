@@ -1,2 +1,2 @@
 # Bootstrap-webdesign
-web page designed using bootstrap
+Responsive webpage designed using html,css,bootstrap.
